@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rac-prueba/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rac-prueba/static/js/main.d69d620f.chunk.js",
+    "main.js.map": "/rac-prueba/static/js/main.d69d620f.chunk.js.map",
+    "runtime-main.js": "/rac-prueba/static/js/runtime-main.4edc28a1.js",
+    "runtime-main.js.map": "/rac-prueba/static/js/runtime-main.4edc28a1.js.map",
+    "static/js/2.d391f75b.chunk.js": "/rac-prueba/static/js/2.d391f75b.chunk.js",
+    "static/js/2.d391f75b.chunk.js.map": "/rac-prueba/static/js/2.d391f75b.chunk.js.map",
+    "static/js/3.809e9c2b.chunk.js": "/rac-prueba/static/js/3.809e9c2b.chunk.js",
+    "static/js/3.809e9c2b.chunk.js.map": "/rac-prueba/static/js/3.809e9c2b.chunk.js.map",
+    "index.html": "/rac-prueba/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rac-prueba/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d391f75b.chunk.js.LICENSE.txt": "/rac-prueba/static/js/2.d391f75b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rac-prueba/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4edc28a1.js",
+    "static/js/2.d391f75b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d69d620f.chunk.js"
+  ]
+}
